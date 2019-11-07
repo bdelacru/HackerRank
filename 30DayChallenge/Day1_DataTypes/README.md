@@ -1,5 +1,6 @@
 
 |Source|https://www.hackerrank.com/challenges/30-data-types/problem |
+|--------|-------|
 
 |File Name|changes?|What I learned|Additional Notes|
 |---------|---------|---------|-------|
