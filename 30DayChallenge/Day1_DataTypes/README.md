@@ -1,9 +1,6 @@
-Source: https://www.hackerrank.com/challenges/30-data-types/problem
 
-First submission:
+|Source|https://www.hackerrank.com/challenges/30-data-types/problem |
 
-What I learned?
-How to use scanner in a sequence. 
-
-Second submission:
-Enhance the code
+|File Name|changes?|What I learned|Additional Notes|
+|---------|---------|---------|-------|
+|DataTypes|First submission|how to use scanner in a sequence|code can be enhanced|
